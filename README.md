@@ -2,7 +2,7 @@
 - 👀 I’m into in Games (mostly open-world and story-driven ones. _**Red Dead Redemption 2**_ is my all-time favorite, and I've beaten the game multiple times!), photographing, art (I love painting and drawing a lot. I also dabble into 3D design.), music, and coding (obviously!).
 - 🎆 I enjoy challenging myself and pushing my limits
 - 🛠️ Languages & Tools:  
-JavaScript • React • TypeScript • C# • HTML/CSS • MySQL • Linux • Git • VS Code • Figma • Rhino 3D
+JavaScript • React • TypeScript • C# • HTML/CSS • MySQL • Bash Scripting • Git • VS Code • Figma • Rhino 3D
 - 🌱 I’m currently learning Unity game development and improving my JavaScript fluency.
 - 📫 How to reach me => RojanJafarnezhad@gmail.com
 - 😄 Pronouns: She / Her
