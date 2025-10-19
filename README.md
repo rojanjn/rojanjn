@@ -8,7 +8,7 @@
 </div>
 
 ### 👀 I’m into:<br>
-🎮 Games; especially open-world and story-driven ones (Red Dead Redemption 2 is my all-time fave, and yes, I’ve beaten it multiple times!)<br>
+🎮 Games; especially open-world and story-driven ones (Red Dead Redemption 2 is my all-time fave, and yes, I’ve beaten it multiple times! Right now, I'm obsessing over Detroit: Become Human...)<br>
 📸 Photography<br>
 🎨 Art. I love painting, drawing, and dabbling in 3D design<br>
 🎧 Music<br>
