@@ -16,7 +16,7 @@
 
 ### 💡 Also:<br>
 🎆 I enjoy challenging myself and pushing my limits<br>
-🧠 I'm currently learning Python, game Development, and working on my backend fluency.<br>
+🧠 I'm currently learning Python, Django, and working on my backend fluency.<br>
 😄 My Pronouns are She Her<br>
 ⚡ Fun fact: I have two cats named Felix and Velma :)<br>
 
