@@ -3,7 +3,8 @@
 # 💫  Hi, I’m Rojan
 👋 You can also call me Rory :))<br>
 
-🌐 **Portfolio:** <a href="https://rojanjn.github.io/portfolio/" target="_blank">https://rojanjn.github.io/portfolio/</a>
+🌐 **Portfolio:** <a href="https://rojanjn.github.io/portfolio/" target="_blank">rojanjn.github.io/portfolio/</a>
+⭐ **DevPost:** <a href="https://devpost.com/rojanjn" target="_blank">RojanJn</a>
 
 <img src="https://media.tenor.com/3vcj3xtK1Z0AAAAi/totoro-anime.gif" width="500"/>
 
